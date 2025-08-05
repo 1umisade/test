@@ -39,3 +39,8 @@ Oxygenic Photosynthesis - The Light Reactions
 page 507
 
 ![Chlorophyll absorption](chlorophyll_A_absorption2.png)
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
