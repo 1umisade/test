@@ -6,4 +6,7 @@ Chlorophyll A
 
 - Chlorophyll A molecules inside PSII absorb photons of 670nm wavelength (red) [Source](chlorophyll_A.md#section-1)
 
+- The absorption excites an electron inside a chlorophyll A [Source](chlorophyll_A.md#section-2)
+
+
          
