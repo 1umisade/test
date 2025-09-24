@@ -13,10 +13,10 @@
 <div align="center">
   <div style="display:inline-block;">
     <a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
-      <img src="Documentation/images/run_web.png" alt="View documentation" style="height:220px;">
+      <img src="Documentation/images/click_run.png" alt="View documentation" style="height:220px;">
     </a>
     <a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
-      <img src="Documentation/images/download_files.png" alt="View documentation" style="height:220px;">
+      <img src="Documentation/images/click_documentation.png" alt="View documentation" style="height:220px;">
     </a>
   </div>
 </div>
