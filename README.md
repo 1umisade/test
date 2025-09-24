@@ -4,18 +4,16 @@
 <!--  <div style="display:inline-block; text-align:left; max-width:900px; font-size:20px;">  -->
   <div style="display:inline-block; max-width:900px; font-size:20px;">
     ProjectMPB is an interactive simulation of photosynthesis developed at the University of Turku.<br>
-    The goal is to provide a scientifically sound and visually rich tool for researchers and educators to explore photosynthetic processes.
+    The goal is to provide a scientifically sound and visually rich tool for researchers and educators to observe photosynthetic processes in silico.
   </div>
 </div>
 
-<br>
-<br>
 <br>
 
 <div align="center">
   <div style="display:inline-block;">
     <a href="https://www.utu.fi/fi" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
-      <img src="Documentation/images/download_files.png" alt="View documentation" style="height:220px;">
+      <img src="Documentation/images/run_web.png" alt="View documentation" style="height:220px;">
     </a>
     <a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
       <img src="Documentation/images/download_files.png" alt="View documentation" style="height:220px;">
@@ -23,7 +21,6 @@
   </div>
 </div>
 
-<br>
 <br>
 <br>
 
@@ -38,10 +35,13 @@
 
 <div align="center">
   <div style="display:inline-flex; gap:20px; align-items:center;">
-      <img src="Documentation/images/gifs/tut_1.gif" alt="Run on the web" style="height:350px;">
-      <img src="Documentation/images/gifs/tut_1.gif" alt="Run on the web" style="height:350px;">
-      <img src="Documentation/images/gifs/tut_1.gif" alt="Run on the web" style="height:350px;">
-      <img src="Documentation/images/gifs/tut_1.gif" alt="Run on the web" style="height:350px;">
+      <img src="Documentation/images/gifs/tuto_1.gif" alt="Run on the web" style="height:350px;">
+      <img src="Documentation/images/gifs/tuto_2.gif" alt="Run on the web" style="height:350px;">
+      <img src="Documentation/images/gifs/tuto_3.gif" alt="Run on the web" style="height:350px;">
+</div>
+<div align="center">
+  <div style="display:inline-flex; gap:20px; align-items:center;">
+      <img src="Documentation/images/gifs/tuto_4.gif" alt="Run on the web" style="height:289px;">
 </div>
 
 
