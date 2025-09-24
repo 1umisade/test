@@ -11,4 +11,9 @@ Chlorophyll A
 
          
 
+<p align="center" style="font-size:20px;">
+  ProjectMPB is an interactive simulation of photosynthesis developed by the University of Turku. <br>
+  The goal is to provide a scientifically sound and visually rich tool for researchers and educators of <br>
+  photosynthetic processes.
+</p>
 
