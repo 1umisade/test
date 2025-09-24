@@ -34,10 +34,10 @@
 <br>
 
 <div align="center">
-  <div style="display:inline-flex; gap:20px; align-items:center;">
-      <img src="Documentation/images/gifs/tuto_1.gif" alt="Run on the web" style="height:200px;">
-      <img src="Documentation/images/gifs/tuto_2.gif" alt="Run on the web" style="height:200px;">
-      <img src="Documentation/images/gifs/tuto_3.gif" alt="Run on the web" style="height:200px;">
+  <div style="display:inline-flex; gap:40px">
+      <img src="Documentation/images/gifs/tuto_1.gif" alt="Run on the web" style="height:225px;">
+      <img src="Documentation/images/gifs/tuto_2.gif" alt="Run on the web" style="height:225px;">
+      <img src="Documentation/images/gifs/tuto_3.gif" alt="Run on the web" style="height:225px;"><br>
 </div>
 <div align="center">
   <div style="display:inline-flex; gap:20px; align-items:center;">
