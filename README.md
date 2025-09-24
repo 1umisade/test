@@ -1,19 +1,134 @@
-# Photosynthesis_Model_Godot_Levels7-
+![MD style image](Documentation/images/Documentation_preview_banner_w_text.png)
 
-## Photosystem II
+<div align="center">
+<!--  <div style="display:inline-block; text-align:left; max-width:900px; font-size:20px;">  -->
+  <div style="display:inline-block; max-width:900px; font-size:20px;">
+    ProjectMPB is an interactive simulation of photosynthesis developed at the University of Turku.<br>
+    The goal is to provide a scientifically sound and visually rich tool for researchers and educators to explore photosynthetic processes.
+  </div>
+</div>
 
-Chlorophyll A
+<br>
+<br>
+<br>
 
-- Chlorophyll A molecules inside PSII absorb photons of 670nm wavelength. [🔎](chlorophyll_A.md#section-1)
+<div align="center">
+  <div style="display:inline-flex; gap:100px; align-items:center;">
+    <a href="https://www.utu.fi/fi" target="_blank" rel="noopener noreferrer">
+      <img src="Documentation/images/run_web.png" alt="Run on the web" style="height:220px;">
+    </a>
+    <a href="missing" target="_blank" rel="noopener noreferrer">
+      <img src="Documentation/images/download_files.png" alt="Run on the web" style="height:220px;">
+    </a>
+</div>
 
-- The absorption excites an electron inside a chlorophyll A. [🔎](chlorophyll_A.md#section-2)
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Maybe some table of content?
+- [Overview](#overview)
+- [Installation](installation.md)
+- [Usage](usage.md)
+- [Biology](biology/proteins.md)
+  - [Protein Complexes](biology/complexes.md)
+  - [Photosystems](biology/photosystems/PSI.md)
+
+test
+
+## Proteins and protein complexes.
+- <span style="color:#32CD32">🌿 Oxygen-evolving complex.</span>
+  - Important short description of OEC.
+  - [Read more details](Documentation/OEC.md).
+  - Go to chapter directly: [function](Documentation/OEC.md#function).
+  - Code sniplet [L301](scenes/Level_7_scenes_and_scripts/Photosystem_II.gd#L301).
+  - Code sniplet [L301–L601](scenes/Level_7_scenes_and_scripts/Photosystem_II.gd#L301-L601).
+- <span style="color:#32CD32">🌿 Photosystem II.</span>
+  - Whatever.
+
+## Some ideas to make MD look nice.
+### Example GDScript.
+
+```gdscript
+func test():
+    print("Protein Complexes!")
+```
+
+```py
+func test():
+    print("Protein Complexes!")
+```
 
 
-         
 
-<p align="center" style="font-size:20px;">
-  ProjectMPB is an interactive simulation of photosynthesis developed by the University of Turku. <br>
-  The goal is to provide a scientifically sound and visually rich tool for researchers and educators of <br>
-  photosynthetic processes.
-</p>
 
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>
+    ✅ GDScript dropdown test.🔎
+  </summary>
+
+  <pre><code style="color: orange;">
+def water_binding():
+    print("OEC binds two water molecules!")
+  </code></pre>
+</details>
+
+
+
+
+
+
+<details>
+  <summary>
+    ✅ GDScript dropdown test.🔎
+  </summary>
+  <gdlink>"Project/Scripts/OEC.gd"</gdlink>
+```py
+def water_binding():
+    print("OEC binds two water molecules!")
+```
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+### Example MD image placement.
+![MD style image](Documentation/images/chlorophyll_A_absorption.png)
+
+
+
+
+
+### 📊 Some diagrams.
+- Diagrams with **Mermaid** (supported on GitHub!)  
+
+Example:
+
+```mermaid
+graph TD
+  A[Cell] --> B[Complexes]
+  B --> C[OEC]
+  B --> D[PSII]
+```
+
+---
+### Extra ideas:
+- Glossary.md to keep links to each and every one element of cell biology.
+---
