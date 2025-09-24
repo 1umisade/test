@@ -25,7 +25,6 @@
 <br>
 
 <div align="center">
-<!--  <div style="display:inline-block; text-align:left; max-width:900px; font-size:20px;">  -->
   <div style="display:inline-block; max-width:900px; font-size:45px;">
     Quick tutorial
   </div>
@@ -34,7 +33,7 @@
 <br>
 
 <div align="center">
-  <div style="display:inline-flex; gap:40px">
+  <div style="display:inline-flex;">
       <img src="Documentation/images/gifs/tuto_1.gif" alt="Run on the web" style="height:225px;">
       <img src="Documentation/images/gifs/tuto_2.gif" alt="Run on the web" style="height:225px;">
       <img src="Documentation/images/gifs/tuto_3.gif" alt="Run on the web" style="height:225px;"><br>
