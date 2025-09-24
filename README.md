@@ -24,11 +24,7 @@
 <br>
 <br>
 
-<div align="center">
-  <div style="display:inline-block; max-width:900px; font-size:45px;">
-    Quick tutorial
-  </div>
-</div>
+<h1 align="center">Quick tutorial</h1>
 
 <br>
 
