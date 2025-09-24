@@ -14,8 +14,8 @@
 
 <div align="center">
   <div style="display:inline-block;">
-    <a href="https://www.utu.fi/fi" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:24px;">
-      <img src="Documentation/images/run_web.png" alt="Run ProjectMPB on the web" style="height:220px;">
+    <a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+      <img src="Documentation/images/download_files.png" alt="View documentation" style="height:220px;">
     </a>
     <a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
       <img src="Documentation/images/download_files.png" alt="View documentation" style="height:220px;">
