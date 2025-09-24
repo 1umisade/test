@@ -35,9 +35,9 @@
 
 <div align="center">
   <div style="display:inline-flex; gap:20px; align-items:center;">
-      <img src="Documentation/images/gifs/tuto_1.gif" alt="Run on the web" style="height:350px;">
-      <img src="Documentation/images/gifs/tuto_2.gif" alt="Run on the web" style="height:350px;">
-      <img src="Documentation/images/gifs/tuto_3.gif" alt="Run on the web" style="height:350px;">
+      <img src="Documentation/images/gifs/tuto_1.gif" alt="Run on the web" style="height:300px;">
+      <img src="Documentation/images/gifs/tuto_2.gif" alt="Run on the web" style="height:300px;">
+      <img src="Documentation/images/gifs/tuto_3.gif" alt="Run on the web" style="height:300px;">
 </div>
 <div align="center">
   <div style="display:inline-flex; gap:20px; align-items:center;">
