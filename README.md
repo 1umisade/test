@@ -13,13 +13,35 @@
 <br>
 
 <div align="center">
-  <div style="display:inline-flex; gap:100px; align-items:center;">
-    <a href="https://www.utu.fi/fi" target="_blank" rel="noopener noreferrer">
-      <img src="Documentation/images/run_web.png" alt="Run on the web" style="height:220px;">
+  <div style="display:inline-block;">
+    <a href="https://www.utu.fi/fi" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:24px;">
+      <img src="Documentation/images/run_web.png" alt="Run ProjectMPB on the web" style="height:220px;">
     </a>
-    <a href="missing" target="_blank" rel="noopener noreferrer">
-      <img src="Documentation/images/download_files.png" alt="Run on the web" style="height:220px;">
+    <a href="https://example.com/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+      <img src="Documentation/images/download_files.png" alt="View documentation" style="height:220px;">
     </a>
+  </div>
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="center">
+<!--  <div style="display:inline-block; text-align:left; max-width:900px; font-size:20px;">  -->
+  <div style="display:inline-block; max-width:900px; font-size:45px;">
+    Quick tutorial
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <div style="display:inline-flex; gap:20px; align-items:center;">
+      <img src="Documentation/images/gifs/tut_1.gif" alt="Run on the web" style="height:350px;">
+      <img src="Documentation/images/gifs/tut_1.gif" alt="Run on the web" style="height:350px;">
+      <img src="Documentation/images/gifs/tut_1.gif" alt="Run on the web" style="height:350px;">
+      <img src="Documentation/images/gifs/tut_1.gif" alt="Run on the web" style="height:350px;">
 </div>
 
 
