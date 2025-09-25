@@ -4,7 +4,7 @@
 <!--  <div style="display:inline-block; text-align:left; max-width:900px; font-size:20px;">  -->
   <div style="display:inline-block; max-width:900px; font-size:20px;">
     ProjectMPB is an interactive simulation of photosynthesis developed at the University of Turku.<br>
-    The goal is to provide a scientifically sound and visually rich tool for researchers and educators<br> to observe photosynthetic processes in silico.
+    The goal is to provide an accurate, visually rich, and accessible tool for researchers and educators<br> to observe photosynthetic processes in silico.
   </div>
 </div>
 
@@ -41,11 +41,11 @@
     <td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="320"></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><p>Adjust speed of particles using the speed slider</p></td>
+    <td colspan="3" align="center"><p>Adjust speed of particles using the Speed slider</p></td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" width="960">
+      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" width="1000">
     </td>
   </tr>
 </table>
