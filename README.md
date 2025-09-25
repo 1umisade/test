@@ -4,7 +4,7 @@
 <!--  <div style="display:inline-block; text-align:left; max-width:900px; font-size:20px;">  -->
   <div style="display:inline-block; max-width:900px; font-size:20px;">
     ProjectMPB is an interactive simulation of photosynthesis developed at the University of Turku.<br>
-    The goal is to provide a scientifically sound and visually rich tool for researchers and educators to observe photosynthetic processes in silico.
+    The goal is to provide a scientifically sound and visually rich tool for researchers and educators<br> to observe photosynthetic processes in silico.
   </div>
 </div>
 
@@ -23,21 +23,34 @@
 
 <br>
 <br>
+  
+#
 
-<h1 align="center">Quick tutorial</h1>
+<h1 align="center">How to control the simulation?<h1/>
 
-<br>
+<table align="center">
+  <tr style="text-align:center;">
+    <td><h1>Explore</h1></td>
+    <td width="20"></td>
+    <td><h1>Learn</h1></td>
+    <td width="20"></td>
+    <td><h1>Create</h1></td>
+  </tr>
+</table>
 
-<div align="center">
-  <div style="display:inline-flex;">
-      <img src="Documentation/images/gifs/tuto_1.gif" alt="Run on the web" style="height:225px;">
-      <img src="Documentation/images/gifs/tuto_2.gif" alt="Run on the web" style="height:225px;">
-      <img src="Documentation/images/gifs/tuto_3.gif" alt="Run on the web" style="height:225px;"><br>
-</div>
-<div align="center">
-  <div style="display:inline-flex; gap:20px; align-items:center;">
-      <img src="Documentation/images/gifs/tuto_4.gif" alt="Run on the web" style="height:289px;">
-</div>
+<table align="center">
+  <tr>
+    <td><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" height="250"></td>
+    <td width="20"></td>
+    <td><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" height="250"></td>
+    <td width="20"></td>
+    <td><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" height="250"></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" height="289">
+</p>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
