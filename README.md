@@ -31,16 +31,12 @@
 
 <table align="center">
   <tr style="text-align:center;">
-    <td><p>Scroll to zoom</p></td>
+    <td>Scroll to zoom</td>
     <td width="90"></td>
-    <td><p>Right click to<br>move camera</p></td>
+    <td>Right click to<br>move camera</td>
     <td width="90"></td>
-    <td><p>Left click to<br>add particles</p></td>
+    <td>Left click to<br>add particles</td>
   </tr>
-</table>
-
-
-<table align="center">
   <tr>
     <td><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" height="325"></td>
     <td width="20"></td>
@@ -48,16 +44,15 @@
     <td width="20"></td>
     <td><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" height="325"></td>
   </tr>
-</table>
-
-<table align="center">
   <tr style="text-align:center;">
-    <td><p>Adjust speed of particles using the speed slider</p></td>
+    <td colspan="5">Adjust speed of particles using the speed slider</td>
+  </tr>
+  <tr style="text-align:center;">
+    <td colspan="5">
+      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" height="289">
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" height="289">
-</p>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
