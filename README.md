@@ -25,27 +25,34 @@
 <br>
   
 #
-
 <h1 align="center">How to control the simulation?<h1/>
+
+<br>
 
 <table align="center">
   <tr style="text-align:center;">
-    <td><h1>Explore</h1></td>
+    <td><p>Scroll to zoom</p></td>
+    <td width="90"></td>
+    <td><p>Right click to<br>move camera</p></td>
+    <td width="90"></td>
+    <td><p>Left click to<br>add particles</p></td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" height="325"></td>
     <td width="20"></td>
-    <td><h1>Learn</h1></td>
+    <td><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" height="325"></td>
     <td width="20"></td>
-    <td><h1>Create</h1></td>
+    <td><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" height="325"></td>
   </tr>
 </table>
 
 <table align="center">
-  <tr>
-    <td><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" height="250"></td>
-    <td width="20"></td>
-    <td><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" height="250"></td>
-    <td width="20"></td>
-    <td><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" height="250"></td>
-  </tr>
+  <tr style="text-align:center;">
+    <td><p>Adjust speed of particles using the speed slider</p></td>
 </table>
 
 <p align="center">
