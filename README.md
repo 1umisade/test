@@ -2,7 +2,7 @@
 
 <div align="center">
 <!--  <div style="display:inline-block; text-align:left; max-width:900px; font-size:20px;">  -->
-  <div style="display:inline-block; max-width:900px; font-size:20px;">
+  <div style="display:inline-block; max-width:900px;">
     ProjectMPB is an interactive simulation of photosynthesis developed at the University of Turku.<br>
     The goal is to provide an accurate, visually rich, and accessible tool for researchers and educators<br> to observe photosynthetic processes in silico.
   </div>
@@ -24,10 +24,7 @@
 <br>
 <br>
   
-#
 <h1 align="center">How to control the simulation?<h1/>
-
-<br>
 
 <table align="center">
   <tr>
@@ -49,6 +46,49 @@
     </td>
   </tr>
 </table>
+
+<br>
+<br>
+<br>
+
+<h1 align="center">Glossary of simulation components<h1/>
+
+<table align="center">
+  <tr>
+    <td align="center">Plastoquinone B</td>
+    <td align="center">Proton</td>
+    <td align="center">Oxygen evolving complex</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Documentation/images/Plastoquinone_A_DetailSprite.png" alt="Plastoquinone B" width="300"></td>
+    <td align="center"><img src="Documentation/images/proton.png" alt="Proton" width="300"></td>
+    <td align="center"><img src="Documentation/images/oxygen_evolving complex_SimpleSprite.png" alt="Oxygen evolving complex" width="300"></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <p style="font-size:14px; line-height:1.4; margin:0;">
+        ProjectMPB is an interactive simulation of photosynthesis developed at the University of Turku.
+      </p>
+    </td>
+    <td align="center" width="300">
+      <p style="font-size:14px; line-height:1.4; margin:0;">
+        The goal is to provide an accurate, visually rich, and accessible tool for researchers and educators.
+      </p>
+    </td>
+    <td align="center" width="300">
+      <p style="font-size:50px; line-height:1.4; margin:0;">
+        It allows users to observe photosynthetic processes <em>in silico</em> through interactive exploration.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
