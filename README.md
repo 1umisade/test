@@ -30,29 +30,26 @@
 <br>
 
 <table align="center">
-  <tr style="text-align:center;">
-    <td>Scroll to zoom</td>
-    <td width="90"></td>
-    <td>Right click to<br>move camera</td>
-    <td width="90"></td>
-    <td>Left click to<br>add particles</td>
+  <tr>
+    <td align="center"><p>Scroll to zoom</p></td>
+    <td align="center"><p>Right click to<br>move camera</p></td>
+    <td align="center"><p>Left click to<br>add particles</p></td>
   </tr>
   <tr>
-    <td><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" height="325"></td>
-    <td width="20"></td>
-    <td><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" height="325"></td>
-    <td width="20"></td>
-    <td><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" height="325"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_1.gif" alt="tuto 1" width="320"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_2.gif" alt="tuto 2" width="320"></td>
+    <td align="center"><img src="Documentation/images/gifs/tuto_3.gif" alt="tuto 3" width="320"></td>
   </tr>
-  <tr style="text-align:center;">
-    <td colspan="5">Adjust speed of particles using the speed slider</td>
+  <tr>
+    <td colspan="3" align="center"><p>Adjust speed of particles using the speed slider</p></td>
   </tr>
-  <tr style="text-align:center;">
-    <td colspan="5">
-      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" height="289">
+  <tr>
+    <td colspan="3" align="center">
+      <img src="Documentation/images/gifs/tuto_4.gif" alt="tuto 4" width="960">
     </td>
   </tr>
 </table>
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
